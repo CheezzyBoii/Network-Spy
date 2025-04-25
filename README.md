@@ -54,11 +54,11 @@ python network_spy_dashboard.py
 📝 Logs are saved in the /logs folder with timestamped filenames.
 
 >📂 logs/
-> ┣ 📄 netstat_2025-04-25_14-03-23.txt
-> ┣ 📄 connected_ips_2025-04-25_14-04-01.txt
-> ┣ 📄 wifi_info_2025-04-25_14-05-16.txt
-> ┣ 📄 speedtest_2025-04-25_14-06-00.txt
-> ┗ 📄 sys_monitor_2025-04-25_14-06-59.txt
+ ┣ 📄 netstat_2025-04-25_14-03-23.txt
+ ┣ 📄 connected_ips_2025-04-25_14-04-01.txt
+ ┣ 📄 wifi_info_2025-04-25_14-05-16.txt
+ ┣ 📄 speedtest_2025-04-25_14-06-00.txt
+ ┗ 📄 sys_monitor_2025-04-25_14-06-59.txt
 ##⚠️ Disclaimer
 This tool is for educational and diagnostic purposes only.
 Do not use it for unauthorized network surveillance.
