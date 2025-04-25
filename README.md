@@ -12,16 +12,16 @@
 ## ✨ Features
 
 
-🔍 Open Ports       → Shows open/listening ports using netstat
-🌐 Connected IPs    → Lists active external IPs with geolocation (IP-API)
-📶 WiFi / MAC Info  → Displays adapter configuration via ipconfig
-⚡ Speed Test        → Measures internet speed using speedtest-cli
-🧠 System Usage      → Live CPU, RAM, Upload/Download bandwidth
-🔎 Net Processes     → Shows top processes using network resources
-📝 Start Logger      → Background logger for all features every 60 seconds
-ℹ️ Info              → Built-in help guide for all buttons
-📸 Interface Preview
-Simple, terminal-style dashboard built with tkinter.
+&nbsp;🔍 Open Ports       → Shows open/listening ports using netstat
+&nbsp;🌐 Connected IPs    → Lists active external IPs with geolocation (IP-API)
+&nbsp;📶 WiFi / MAC Info  → Displays adapter configuration via ipconfig
+&nbsp;⚡ Speed Test        → Measures internet speed using speedtest-cli
+&nbsp;🧠 System Usage      → Live CPU, RAM, Upload/Download bandwidth
+&nbsp;🔎 Net Processes     → Shows top processes using network resources
+&nbsp;📝 Start Logger      → Background logger for all features every 60 seconds
+&nbsp;ℹ️ Info              → Built-in help guide for all buttons
+&nbsp;📸 Interface Preview
+&nbsp;Simple, terminal-style dashboard built with tkinter.
 
 
 Dashboard	Geolocated IPs
