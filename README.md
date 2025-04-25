@@ -53,9 +53,6 @@ cd network-spy-dashboard
 python network_spy_dashboard.py
 📝 Logs are saved in the /logs folder with timestamped filenames.
 
-📁 Log Samples
-Copy
-Edit
 >📂 logs/
 > ┣ 📄 netstat_2025-04-25_14-03-23.txt
 > ┣ 📄 connected_ips_2025-04-25_14-04-01.txt
