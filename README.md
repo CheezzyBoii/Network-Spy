@@ -11,33 +11,40 @@
 
 ## ✨ Features
 
+- 🔍 **Open Ports** → Shows open/listening ports using `netstat`
+- 🌐 **Connected IPs** → Lists active external IPs with geolocation via IP-API
+- 📶 **WiFi / MAC Info** → Displays adapter configuration using `ipconfig`
+- ⚡ **Speed Test** → Measures internet speed with `speedtest-cli`
+- 🧠 **System Usage** → Live CPU, RAM, Upload/Download bandwidth monitoring
+- 🔎 **Net Processes** → Displays top processes using network resources
+- 📝 **Start Logger** → Background logs all stats every 60 seconds
+- ℹ️ **Info** → Built-in help guide for all dashboard buttons
 
-&nbsp;🔍 Open Ports       → Shows open/listening ports using netstat
-&nbsp;🌐 Connected IPs    → Lists active external IPs with geolocation (IP-API)
-&nbsp;📶 WiFi / MAC Info  → Displays adapter configuration via ipconfig
-&nbsp;⚡ Speed Test        → Measures internet speed using speedtest-cli
-&nbsp;🧠 System Usage      → Live CPU, RAM, Upload/Download bandwidth
-&nbsp;🔎 Net Processes     → Shows top processes using network resources
-&nbsp;📝 Start Logger      → Background logger for all features every 60 seconds
-&nbsp;ℹ️ Info              → Built-in help guide for all buttons
-&nbsp;📸 Interface Preview
-&nbsp;Simple, terminal-style dashboard built with tkinter.
+---
 
+## 🖥️ Interface Preview
 
-Dashboard	Geolocated IPs
-📦 Auto Dependency Installer
-No manual pip installing needed! On launch, the app will auto-install:
+> A simple terminal-style dashboard built using `tkinter`.
 
-python
-Copy
-Edit
+| Dashboard | Geolocated IPs |
+|----------|----------------|
+| ![Preview1](https://via.placeholder.com/400x200.png?text=Dashboard+Preview) | ![Preview2](https://via.placeholder.com/400x200.png?text=IP+Geo+Preview) |
+
+---
+
+## 📦 Auto Dependency Installer
+
+> No manual `pip install` needed!  
+On launch, the app automatically installs:
+
+```python
 required = ['psutil', 'requests', 'speedtest-cli']
 🧪 Requirements
 Python 3.8+
 
 Windows OS
 
-Internet access (for speed test + IP geolocation)
+Internet access (for speed test & IP geolocation)
 
 🚀 Getting Started
 bash
@@ -61,9 +68,11 @@ Edit
  ┣ 📄 speedtest_2025-04-25_14-06-00.txt
  ┗ 📄 sys_monitor_2025-04-25_14-06-59.txt
 ⚠️ Disclaimer
-This tool is for educational and diagnostic use only. Do not use it for unauthorized network surveillance.
+This tool is for educational and diagnostic purposes only.
+Do not use it for unauthorized network surveillance.
 
 🧀 Author
 CheezzyBoii
 🐙 GitHub
 ☕ If this helped you out, star the repo and share it!
+
