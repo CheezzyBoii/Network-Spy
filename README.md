@@ -26,10 +26,6 @@
 
 > A simple terminal-style dashboard built using `tkinter`.
 
-| Dashboard | Geolocated IPs |
-|----------|----------------|
-| ![Preview1](https://via.placeholder.com/400x200.png?text=Dashboard+Preview) | ![Preview2](https://via.placeholder.com/400x200.png?text=IP+Geo+Preview) |
-
 ---
 
 ## 📦 Auto Dependency Installer
