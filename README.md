@@ -33,7 +33,6 @@
 > No manual `pip install` needed!  
 On launch, the app automatically installs:
 
-```python
 required = ['psutil', 'requests', 'speedtest-cli']
 🧪 Requirements
 Python 3.8+
