@@ -11,7 +11,7 @@
 
 ## ✨ Features
 
-```bash
+
 🔍 Open Ports       → Shows open/listening ports using netstat
 🌐 Connected IPs    → Lists active external IPs with geolocation (IP-API)
 📶 WiFi / MAC Info  → Displays adapter configuration via ipconfig
