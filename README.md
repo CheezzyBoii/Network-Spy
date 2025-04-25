@@ -66,7 +66,7 @@ python network_spy_dashboard.py
 
 ---
 
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 This tool is for educational and diagnostic purposes only.
 Do not use it for unauthorized network surveillance.
 
