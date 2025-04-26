@@ -50,9 +50,9 @@ git clone https://github.com/yourusername/network-spy-dashboard.git
 cd network-spy-dashboard
 
 # 2. Run the app
-
+'''bash
 python network_spy_dashboard.py
-
+'''
 📝 Logs are saved in the `/logs` folder with timestamped filenames.
 
 ---
