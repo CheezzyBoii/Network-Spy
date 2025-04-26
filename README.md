@@ -33,7 +33,8 @@
 > No manual `pip install` needed!  
 On launch, the app automatically installs:
 
-required = ['psutil', 'requests', 'speedtest-cli']
+python ``` required = ['psutil', 'requests', 'speedtest-cli']
+
 🧪 Requirements
 Python 3.8+
 
@@ -46,14 +47,13 @@ bash
 Copy
 Edit
 # 1. Clone the repo
-'''bash
 git clone https://github.com/yourusername/network-spy-dashboard.git
 cd network-spy-dashboard
-'''
+...
 # 2. Run the app
-'''bash
+
 python network_spy_dashboard.py
-'''
+
 📝 Logs are saved in the `/logs` folder with timestamped filenames.
 
 ---
