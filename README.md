@@ -8,6 +8,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
+![Screenshot 2025-04-30 235659](https://github.com/user-attachments/assets/579ce674-951c-43da-ba89-50a3bf25fb28)
+---
 
 ## ✨ Features
 
