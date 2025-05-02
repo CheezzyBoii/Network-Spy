@@ -52,7 +52,7 @@ bash
 Copy
 Edit
 # 1. Clone the repo
-git clone https://github.com/yourusername/network-spy-dashboard.git
+git clone https://github.com/CheezzyBoii/Network-Spy.git
 cd network-spy-dashboard
 ...
 # 2. Run the app
